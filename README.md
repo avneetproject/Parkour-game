@@ -9,7 +9,7 @@ This project serves as a **technical gameplay and animation showcase**, explorin
 
 ## 🎥 Animation & Gameplay Showcase
 
-[![Parkour Showcase]([./thumbnail-parkour.png](https://drive.google.com/file/d/1BPy4AySwbswy4o_zJG-MXJ7-WTXswbVL/view?usp=drive_link))
+[![Parkour Showcase](./thumbnail-parkour.png)](https://drive.google.com/file/d/1BPy4AySwbswy4o_zJG-MXJ7-WTXswbVL/view?usp=drive_link)
 
 _Click the image to play the gameplay video._
 
