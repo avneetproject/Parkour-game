@@ -9,7 +9,9 @@ This project serves as a **technical gameplay and animation showcase**, explorin
 
 ## 🎥 Animation & Gameplay Showcase
 
-<video src="./Parkour-1.mp4" controls width="100%"></video>
+[![Parkour Showcase](./thumbnail.png)](./Parkour-1.mp4)
+
+_Click the image to play the gameplay video._
 
 > Sample gameplay demonstrating vaulting, jumping, and motion-matched traversal animations.
 
